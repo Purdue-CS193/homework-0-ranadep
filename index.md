@@ -25,15 +25,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-***This class is trully amazing and fun at the same time!!.***  
+***This class is truly amazing and fun at the same time!!.***  
 _Never knew both was possible!_ 
-"I love coding"
+
 
 
 [Look cool video!(Im so sorry)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-[Look cool image!](https://github.com/Purdue-CS193/homework-0-ranadep/assets/143107549/8b8d3d8c-07d5-4005-a776-eaed5cc3e199)
+![Look cool image!](https://github.com/Purdue-CS193/homework-0-ranadep/assets/143107549/8b8d3d8c-07d5-4005-a776-eaed5cc3e199)
 
 
 
