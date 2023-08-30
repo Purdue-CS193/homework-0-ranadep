@@ -22,8 +22,9 @@ Syntax highlighted code block
 - The students were very helpful and informative at the same time.
 
 
-1. Numbered
-2. List
+1. The teachers (professors?) were very chill and amazing to work with.
+2. It made the class more fun!
+3. Better than any boring 1 hour lecture that we have to attend.
 
 ***This class is truly amazing and fun at the same time!!.***  
 _Never knew both was possible!_ 
