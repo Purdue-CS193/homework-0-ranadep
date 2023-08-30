@@ -25,7 +25,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-***This class is trully amazing and fun at the same time!!.*** , _Never knew both was possible!_ , 'I love coding'
+***This class is trully amazing and fun at the same time!!.***  
+_Never knew both was possible!_ 
+"I love coding"
 
 
 [Look cool video!(Im so sorry)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
