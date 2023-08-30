@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # ranadep's First CS193 Homework
 ## CS IS THE BEST!!
-### GitHUB first website!!!
+### GitHub first website!!!
 
 
 
