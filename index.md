@@ -12,8 +12,9 @@ markdown
 Syntax highlighted code block
 
 # ranadep's First CS193 Homework
-## SO FUN
-### YAY!
+## CS IS THE BEST!!
+### 
+(https://github.com/Purdue-CS193/homework-0-ranadep/assets/143107549/2471f6e4-1b87-469b-beed-e297859e3136)
 
 - Great class and it was super fun and informative.
 - Best and most fun class of my week.
@@ -26,6 +27,8 @@ Syntax highlighted code block
 ***This class is trully amazing and fun at the same time!!.*** , _Never knew both was possible!_ , 'I love coding'
 
 [Look cool video!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Look cool image!](https://github.com/Purdue-CS193/homework-0-ranadep/assets/143107549/8b8d3d8c-07d5-4005-a776-eaed5cc3e199)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
